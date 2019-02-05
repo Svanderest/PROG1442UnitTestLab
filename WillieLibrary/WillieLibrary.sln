@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WillieLibrary", "WillieLibrary\WillieLibrary.csproj", "{93C110F8-B337-49CD-836C-814A9F121B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WillieLibraryTests", "WillieLibraryTests\WillieLibraryTests.csproj", "{F8BD3439-5081-42C5-8305-9D4BBC294DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C110F8-B337-49CD-836C-814A9F121B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C110F8-B337-49CD-836C-814A9F121B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C110F8-B337-49CD-836C-814A9F121B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C110F8-B337-49CD-836C-814A9F121B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BD3439-5081-42C5-8305-9D4BBC294DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BD3439-5081-42C5-8305-9D4BBC294DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BD3439-5081-42C5-8305-9D4BBC294DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BD3439-5081-42C5-8305-9D4BBC294DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1654B0D3-0CAF-473E-8A79-349999DB8CAC}
+	EndGlobalSection
+EndGlobal
